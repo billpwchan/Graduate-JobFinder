@@ -28,7 +28,7 @@ async function main() {
         maxConcurrency: 4,
         timeout: 300000,
         puppeteerOptions: {
-            headless: false
+            headless: true
         }
     });
 

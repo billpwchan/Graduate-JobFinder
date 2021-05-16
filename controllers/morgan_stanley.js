@@ -101,7 +101,7 @@ async function scrapeAll(page) {
         },
     }
     console.log(table(data, config))
-    fs.writeFile('morgan_stanley.md', table(data, config), err => {})
+    fs.writeFile('./documents/morgan_stanley.txt', table(data, config), err => {})
 
 }
 
