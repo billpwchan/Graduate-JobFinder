@@ -84,7 +84,9 @@ async function scrapeAll(page) {
     }
 
 
-    let data = []
+    let data = [
+        ["Title", "Type", "Location", "URL", "Deadline", "Remarks"]
+    ]
     vacancies.forEach((vacancy) => {
         data.push(Object.values(vacancy));
     });
@@ -93,15 +95,18 @@ async function scrapeAll(page) {
 
     const config = {
         columnDefault: {
-            width: 10,
+            width: 15,
         },
+        columns: [{}, {}, {}, {
+            width: 80
+        }],
         header: {
             alignment: 'center',
             content: `MORGAN STANLEY JOB VACANCIES - ${date}`,
         },
     }
     console.log(table(data, config))
-    fs.writeFile('./documents/morgan_stanley.txt', table(data, config), err => {})
+    fs.writeFile(`./documents/morgan_stanley_${date}.txt`, table(data, config), err => {})
 
 }
 

@@ -1,0 +1,845 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                  MORGAN STANLEY JOB VACANCIES - 2021-5-16                                                                  ║
+╟─────────────────┬─────────────────┬─────────────────┬──────────────────────────────────────────────────────────────────────────────────┬─────────────────┬─────────────────╢
+║ Title           │ Type            │ Location        │ URL                                                                              │ Deadline        │ Remarks         ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Technology │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11401                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ d States of Ame │                                                                                  │ dline: Apr 12,  │                 ║
+║ Program (New Yo │                 │ rica            │                                                                                  │ 2022            │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Technology │ Program Type: F │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10295                           │ Application Dea │                 ║
+║ Full Time Analy │ ull Time        │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ st Program (Bud │                 │                 │                                                                                  │ 2021            │                 ║
+║ apest)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Risk Manag │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10267                           │ Application Dea │                 ║
+║ ement Off-cycle │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ Internship - Cr │                 │                 │                                                                                  │ 2021            │                 ║
+║ edit Research ( │                 │                 │                                                                                  │                 │                 ║
+║ Budapest)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Risk Manag │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10269                           │ Application Dea │                 ║
+║ ement Off-cycle │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ Internship - Qu │                 │                 │                                                                                  │ 2021            │                 ║
+║ antitative (Bud │                 │                 │                                                                                  │                 │                 ║
+║ apest)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Risk Manag │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10270                           │ Application Dea │                 ║
+║ ement Off-cycle │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ Internship - Re │                 │                 │                                                                                  │ 2021            │                 ║
+║ porting (Budape │                 │                 │                                                                                  │                 │                 ║
+║ st)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Finance Of │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10158                           │ Application Dea │                 ║
+║ f-Cycle Interns │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ hip (Budapest)  │                 │                 │                                                                                  │ 2021            │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Wealth Man │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10313                           │ Application Dea │                 ║
+║ agement Off-cyc │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ le Internship - │                 │                 │                                                                                  │ 2021            │                 ║
+║ Analytics  Data │                 │                 │                                                                                  │                 │                 ║
+║ (Budapest)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Technology │ Program Type: I │ Baltimore, Unit │ https://morganstanley.tal.net/vx/candidate/apply/11399                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ ed States of Am │                                                                                  │ dline: Oct 15,  │                 ║
+║ Program (Cyber  │                 │ erica           │                                                                                  │ 2021            │                 ║
+║ Security)(Balti │                 │                 │                                                                                  │                 │                 ║
+║ more)           │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Compliance │ Program Type: I │ Baltimore, Unit │ https://morganstanley.tal.net/vx/candidate/apply/11245                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ ed States of Am │                                                                                  │ dline: Oct 15,  │                 ║
+║ Program (Baltim │                 │ erica           │                                                                                  │ 2021            │                 ║
+║ ore)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Operations │ Program Type: I │ Baltimore, Unit │ https://morganstanley.tal.net/vx/candidate/apply/11375                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ ed States of Am │                                                                                  │ dline: Oct 15,  │                 ║
+║ Program (Baltim │                 │ erica           │                                                                                  │ 2021            │                 ║
+║ ore)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Technology │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11401                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ d States of Ame │                                                                                  │ dline: Apr 12,  │                 ║
+║ Program (New Yo │                 │ rica            │                                                                                  │ 2022            │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Technology │ Program Type: F │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10295                           │ Application Dea │                 ║
+║ Full Time Analy │ ull Time        │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ st Program (Bud │                 │                 │                                                                                  │ 2021            │                 ║
+║ apest)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Risk Manag │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10267                           │ Application Dea │                 ║
+║ ement Off-cycle │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ Internship - Cr │                 │                 │                                                                                  │ 2021            │                 ║
+║ edit Research ( │                 │                 │                                                                                  │                 │                 ║
+║ Budapest)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Risk Manag │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10269                           │ Application Dea │                 ║
+║ ement Off-cycle │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ Internship - Qu │                 │                 │                                                                                  │ 2021            │                 ║
+║ antitative (Bud │                 │                 │                                                                                  │                 │                 ║
+║ apest)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Risk Manag │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10270                           │ Application Dea │                 ║
+║ ement Off-cycle │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ Internship - Re │                 │                 │                                                                                  │ 2021            │                 ║
+║ porting (Budape │                 │                 │                                                                                  │                 │                 ║
+║ st)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Finance Of │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10158                           │ Application Dea │                 ║
+║ f-Cycle Interns │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ hip (Budapest)  │                 │                 │                                                                                  │ 2021            │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Wealth Man │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10313                           │ Application Dea │                 ║
+║ agement Off-cyc │ nternship       │ ry              │                                                                                  │ dline: Dec 28,  │                 ║
+║ le Internship - │                 │                 │                                                                                  │ 2021            │                 ║
+║ Analytics  Data │                 │                 │                                                                                  │                 │                 ║
+║ (Budapest)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Technology │ Program Type: I │ Baltimore, Unit │ https://morganstanley.tal.net/vx/candidate/apply/11399                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ ed States of Am │                                                                                  │ dline: Oct 15,  │                 ║
+║ Program (Cyber  │                 │ erica           │                                                                                  │ 2021            │                 ║
+║ Security)(Balti │                 │                 │                                                                                  │                 │                 ║
+║ more)           │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Compliance │ Program Type: I │ Baltimore, Unit │ https://morganstanley.tal.net/vx/candidate/apply/11245                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ ed States of Am │                                                                                  │ dline: Oct 15,  │                 ║
+║ Program (Baltim │                 │ erica           │                                                                                  │ 2021            │                 ║
+║ ore)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Operations │ Program Type: I │ Baltimore, Unit │ https://morganstanley.tal.net/vx/candidate/apply/11375                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ ed States of Am │                                                                                  │ dline: Oct 15,  │                 ║
+║ Program (Baltim │                 │ erica           │                                                                                  │ 2021            │                 ║
+║ ore)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Finance Su │ Program Type: I │ Baltimore, Unit │ https://morganstanley.tal.net/vx/candidate/apply/11255                           │ Application Dea │                 ║
+║ mmer Analyst Pr │ nternship       │ ed States of Am │                                                                                  │ dline: Oct 15,  │                 ║
+║ ogram (Baltimor │                 │ erica           │                                                                                  │ 2021            │                 ║
+║ e)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Firm Risk  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11261                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram - Quantitat │                 │                 │                                                                                  │                 │                 ║
+║ ive Risk (New Y │                 │                 │                                                                                  │                 │                 ║
+║ ork)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Firm Risk  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11262                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram - Risk Mana │                 │                 │                                                                                  │                 │                 ║
+║ gement (New Yor │                 │                 │                                                                                  │                 │                 ║
+║ k)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Internal A │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11306                           │ Application Dea │                 ║
+║ udit - Technolo │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ gy Audit Summer │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Analyst Program │                 │                 │                                                                                  │                 │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Internal A │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11303                           │ Application Dea │                 ║
+║ udit - Business │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ Audit Summer An │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ alyst Program ( │                 │                 │                                                                                  │                 │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Corporate  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11247                           │ Application Dea │                 ║
+║ Services Summer │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ Analyst Program │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Human Reso │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11291                           │ Application Dea │                 ║
+║ urces Summer An │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ alyst Program ( │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Wealth Man │ Program Type: I │ Purchase, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11405                           │ Application Dea │                 ║
+║ agement Sophomo │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ re Summer Analy │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ st Program (New │                 │                 │                                                                                  │                 │                 ║
+║ York)           │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Compliance │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11244                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ Program (New Yo │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Corporate  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11249                           │ Application Dea │                 ║
+║ Treasury Summer │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ Analyst Program │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Finance Su │ Program Type: I │ Baltimore, Unit │ https://morganstanley.tal.net/vx/candidate/apply/11255                           │ Application Dea │                 ║
+║ mmer Analyst Pr │ nternship       │ ed States of Am │                                                                                  │ dline: Oct 15,  │                 ║
+║ ogram (Baltimor │                 │ erica           │                                                                                  │ 2021            │                 ║
+║ e)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Firm Risk  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11261                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram - Quantitat │                 │                 │                                                                                  │                 │                 ║
+║ ive Risk (New Y │                 │                 │                                                                                  │                 │                 ║
+║ ork)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Firm Risk  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11262                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram - Risk Mana │                 │                 │                                                                                  │                 │                 ║
+║ gement (New Yor │                 │                 │                                                                                  │                 │                 ║
+║ k)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Internal A │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11306                           │ Application Dea │                 ║
+║ udit - Technolo │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ gy Audit Summer │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Analyst Program │                 │                 │                                                                                  │                 │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Internal A │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11303                           │ Application Dea │                 ║
+║ udit - Business │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ Audit Summer An │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ alyst Program ( │                 │                 │                                                                                  │                 │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Corporate  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11247                           │ Application Dea │                 ║
+║ Services Summer │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ Analyst Program │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Human Reso │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11291                           │ Application Dea │                 ║
+║ urces Summer An │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 08,  │                 ║
+║ alyst Program ( │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Wealth Man │ Program Type: I │ Purchase, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11405                           │ Application Dea │                 ║
+║ agement Sophomo │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ re Summer Analy │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ st Program (New │                 │                 │                                                                                  │                 │                 ║
+║ York)           │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Compliance │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11244                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ Program (New Yo │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Corporate  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11249                           │ Application Dea │                 ║
+║ Treasury Summer │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ Analyst Program │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Finance Su │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11256                           │ Application Dea │                 ║
+║ mmer Analyst Pr │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ ogram (New York │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ )               │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Operations │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11376                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ Program (New Yo │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Institutio │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11300                           │ Application Dea │                 ║
+║ nal Equity Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ er Sophomore An │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ alyst Program ( │                 │                 │                                                                                  │                 │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fixed Inco │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11266                           │ Application Dea │                 ║
+║ me Research Sum │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ mer Analyst Pro │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ gram (New York) │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 AlphaWise  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11233                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ Program (New Yo │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Bank Resou │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11236                           │ Application Dea │                 ║
+║ rce Management  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ Sophomore Summe │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ r Analyst Progr │                 │                 │                                                                                  │                 │                 ║
+║ am (New York)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Bank Resou │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11241                           │ Application Dea │                 ║
+║ rce Management  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ Summer Analyst  │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Program (New Yo │                 │                 │                                                                                  │                 │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Equity Res │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11252                           │ Application Dea │                 ║
+║ earch Summer An │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ alyst Program ( │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Equity Res │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11251                           │ Application Dea │                 ║
+║ earch Sophomore │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ Summer Analyst  │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Program (New Yo │                 │                 │                                                                                  │                 │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Internal A │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/11456                           │ Application Dea │                 ║
+║ udit Off-cycle  │ nternship       │ ry              │                                                                                  │ dline: Aug 31,  │                 ║
+║ Internship (Bud │                 │                 │                                                                                  │ 2021            │                 ║
+║ apest)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Finance Su │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11256                           │ Application Dea │                 ║
+║ mmer Analyst Pr │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ ogram (New York │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ )               │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Operations │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11376                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 07,  │                 ║
+║ Program (New Yo │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Institutio │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11300                           │ Application Dea │                 ║
+║ nal Equity Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ er Sophomore An │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ alyst Program ( │                 │                 │                                                                                  │                 │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fixed Inco │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11266                           │ Application Dea │                 ║
+║ me Research Sum │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ mer Analyst Pro │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ gram (New York) │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 AlphaWise  │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11233                           │ Application Dea │                 ║
+║ Summer Analyst  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ Program (New Yo │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Bank Resou │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11236                           │ Application Dea │                 ║
+║ rce Management  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ Sophomore Summe │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ r Analyst Progr │                 │                 │                                                                                  │                 │                 ║
+║ am (New York)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Bank Resou │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11241                           │ Application Dea │                 ║
+║ rce Management  │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ Summer Analyst  │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Program (New Yo │                 │                 │                                                                                  │                 │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Equity Res │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11252                           │ Application Dea │                 ║
+║ earch Summer An │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ alyst Program ( │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Equity Res │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11251                           │ Application Dea │                 ║
+║ earch Sophomore │ nternship       │ d States of Ame │                                                                                  │ dline: Sep 04,  │                 ║
+║ Summer Analyst  │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Program (New Yo │                 │                 │                                                                                  │                 │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Internal A │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/11456                           │ Application Dea │                 ║
+║ udit Off-cycle  │ nternship       │ ry              │                                                                                  │ dline: Aug 31,  │                 ║
+║ Internship (Bud │                 │                 │                                                                                  │ 2021            │                 ║
+║ apest)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Global Cap │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11282                           │ Application Dea │                 ║
+║ ital Markets So │ nternship       │ d States of Ame │                                                                                  │ dline: Aug 23,  │                 ║
+║ phomore Summer  │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Analyst Program │                 │                 │                                                                                  │                 │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fund Servi │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11276                           │ Application Dea │                 ║
+║ ces Risk Analyt │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 31,  │                 ║
+║ ics Summer Anal │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ yst Program (Ne │                 │                 │                                                                                  │                 │                 ║
+║ w York  Purchas │                 │                 │                                                                                  │                 │                 ║
+║ e)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fund Servi │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11277                           │ Application Dea │                 ║
+║ ces Summer Anal │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 31,  │                 ║
+║ yst Program (Ne │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ w York  Purchas │                 │                 │                                                                                  │                 │                 ║
+║ e)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Institutio │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11299                           │ Application Dea │                 ║
+║ nal Equity Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 31,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram (New York)  │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Prime Brok │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11378                           │ Application Dea │                 ║
+║ erage Client Se │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 31,  │                 ║
+║ rvice Summer An │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ alyst Program ( │                 │                 │                                                                                  │                 │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Inves │ Program Type: I │ Sydney, Austral │ https://morganstanley.tal.net/vx/candidate/apply/10946                           │ Application Dea │                 ║
+║ tment Banking S │ nternship       │ ia              │                                                                                  │ dline: Jul 27,  │                 ║
+║ ummer Analyst P │                 │                 │                                                                                  │ 2021            │                 ║
+║ rogram (Sydney) │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Globa │ Program Type: I │ Sydney, Austral │ https://morganstanley.tal.net/vx/candidate/apply/10965                           │ Application Dea │                 ║
+║ l Capital Marke │ nternship       │ ia              │                                                                                  │ dline: Jul 27,  │                 ║
+║ ts Summer Analy │                 │                 │                                                                                  │ 2021            │                 ║
+║ st Program (Syd │                 │                 │                                                                                  │                 │                 ║
+║ ney)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Wealt │ Program Type: I │ Sydney, Austral │ https://morganstanley.tal.net/vx/candidate/apply/10964                           │ Application Dea │                 ║
+║ h Management Su │ nternship       │ ia              │                                                                                  │ dline: Jul 27,  │                 ║
+║ mmer Analyst Pr │                 │                 │                                                                                  │ 2021            │                 ║
+║ ogram (Sydney)  │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Inves │ Program Type: I │ Sydney, Austral │ https://morganstanley.tal.net/vx/candidate/apply/10966                           │ Application Dea │                 ║
+║ tment Managemen │ nternship       │ ia              │                                                                                  │ dline: Jul 27,  │                 ║
+║ t Summer Analys │                 │                 │                                                                                  │ 2021            │                 ║
+║ t Program - Rea │                 │                 │                                                                                  │                 │                 ║
+║ l Estate Invest │                 │                 │                                                                                  │                 │                 ║
+║ ing (Sydney)    │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Public Fin │ Program Type: I │ San Francisco,  │ https://morganstanley.tal.net/vx/candidate/apply/11229                           │ Application Dea │                 ║
+║ ance Summer Ana │ nternship       │ United States o │                                                                                  │ dline: Jul 14,  │                 ║
+║ lyst Program (S │                 │ f America       │                                                                                  │ 2021            │                 ║
+║ an Francisco)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Global Cap │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11282                           │ Application Dea │                 ║
+║ ital Markets So │ nternship       │ d States of Ame │                                                                                  │ dline: Aug 23,  │                 ║
+║ phomore Summer  │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Analyst Program │                 │                 │                                                                                  │                 │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fund Servi │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11276                           │ Application Dea │                 ║
+║ ces Risk Analyt │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 31,  │                 ║
+║ ics Summer Anal │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ yst Program (Ne │                 │                 │                                                                                  │                 │                 ║
+║ w York  Purchas │                 │                 │                                                                                  │                 │                 ║
+║ e)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fund Servi │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11277                           │ Application Dea │                 ║
+║ ces Summer Anal │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 31,  │                 ║
+║ yst Program (Ne │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ w York  Purchas │                 │                 │                                                                                  │                 │                 ║
+║ e)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Institutio │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11299                           │ Application Dea │                 ║
+║ nal Equity Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 31,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram (New York)  │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Prime Brok │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11378                           │ Application Dea │                 ║
+║ erage Client Se │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 31,  │                 ║
+║ rvice Summer An │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ alyst Program ( │                 │                 │                                                                                  │                 │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Inves │ Program Type: I │ Sydney, Austral │ https://morganstanley.tal.net/vx/candidate/apply/10946                           │ Application Dea │                 ║
+║ tment Banking S │ nternship       │ ia              │                                                                                  │ dline: Jul 27,  │                 ║
+║ ummer Analyst P │                 │                 │                                                                                  │ 2021            │                 ║
+║ rogram (Sydney) │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Globa │ Program Type: I │ Sydney, Austral │ https://morganstanley.tal.net/vx/candidate/apply/10965                           │ Application Dea │                 ║
+║ l Capital Marke │ nternship       │ ia              │                                                                                  │ dline: Jul 27,  │                 ║
+║ ts Summer Analy │                 │                 │                                                                                  │ 2021            │                 ║
+║ st Program (Syd │                 │                 │                                                                                  │                 │                 ║
+║ ney)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Wealt │ Program Type: I │ Sydney, Austral │ https://morganstanley.tal.net/vx/candidate/apply/10964                           │ Application Dea │                 ║
+║ h Management Su │ nternship       │ ia              │                                                                                  │ dline: Jul 27,  │                 ║
+║ mmer Analyst Pr │                 │                 │                                                                                  │ 2021            │                 ║
+║ ogram (Sydney)  │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Inves │ Program Type: I │ Sydney, Austral │ https://morganstanley.tal.net/vx/candidate/apply/10966                           │ Application Dea │                 ║
+║ tment Managemen │ nternship       │ ia              │                                                                                  │ dline: Jul 27,  │                 ║
+║ t Summer Analys │                 │                 │                                                                                  │ 2021            │                 ║
+║ t Program - Rea │                 │                 │                                                                                  │                 │                 ║
+║ l Estate Invest │                 │                 │                                                                                  │                 │                 ║
+║ ing (Sydney)    │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Public Fin │ Program Type: I │ San Francisco,  │ https://morganstanley.tal.net/vx/candidate/apply/11229                           │ Application Dea │                 ║
+║ ance Summer Ana │ nternship       │ United States o │                                                                                  │ dline: Jul 14,  │                 ║
+║ lyst Program (S │                 │ f America       │                                                                                  │ 2021            │                 ║
+║ an Francisco)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Public Fin │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11228                           │ Application Dea │                 ║
+║ ance Summer Ana │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 14,  │                 ║
+║ lyst Program (N │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ew York)        │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Global Cap │ Program Type: I │ Menlo Park, Uni │ https://morganstanley.tal.net/vx/candidate/apply/11287                           │ Application Dea │                 ║
+║ ital Markets Su │ nternship       │ ted States of A │                                                                                  │ dline: Jul 14,  │                 ║
+║ mmer Analyst Pr │                 │ merica          │                                                                                  │ 2021            │                 ║
+║ ogram (Menlo Pa │                 │                 │                                                                                  │                 │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Global Cap │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11288                           │ Application Dea │                 ║
+║ ital Markets Su │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 14,  │                 ║
+║ mmer Analyst Pr │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ogram (New York │                 │                 │                                                                                  │                 │                 ║
+║ )               │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fixed Inco │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11218                           │ Application Dea │                 ║
+║ me Sophomore Su │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 14,  │                 ║
+║ mmer Analyst Pr │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ogram (New York │                 │                 │                                                                                  │                 │                 ║
+║ )               │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fixed Inco │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11219                           │ Application Dea │                 ║
+║ me Summer Analy │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 14,  │                 ║
+║ st Program (New │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ York)           │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11346                           │ Application Dea │                 ║
+║ Banking Summer  │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ Analyst Program │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ (United States) │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Institutio │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11301                           │ Application Dea │                 ║
+║ nal Securities  │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ Quantitative Su │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ mmer Opportunit │                 │                 │                                                                                  │                 │                 ║
+║ ies (New York)  │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Quantitati │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11271                           │ Application Dea │                 ║
+║ ve Finance Soph │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ omore Summer An │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ alyst Program ( │                 │                 │                                                                                  │                 │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Inves │ Program Type: I │ Melbourne, Aust │ https://morganstanley.tal.net/vx/candidate/apply/10953                           │ Application Dea │                 ║
+║ tment Banking S │ nternship       │ ralia           │                                                                                  │ dline: Jul 13,  │                 ║
+║ ummer Analyst P │                 │                 │                                                                                  │ 2021            │                 ║
+║ rogram (Melbour │                 │                 │                                                                                  │                 │                 ║
+║ ne)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Wealth Man │ Program Type: I │ Purchase, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11406                           │ Application Dea │                 ║
+║ agement Summer  │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ Analyst Program │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Public Fin │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11228                           │ Application Dea │                 ║
+║ ance Summer Ana │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 14,  │                 ║
+║ lyst Program (N │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ew York)        │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Global Cap │ Program Type: I │ Menlo Park, Uni │ https://morganstanley.tal.net/vx/candidate/apply/11287                           │ Application Dea │                 ║
+║ ital Markets Su │ nternship       │ ted States of A │                                                                                  │ dline: Jul 14,  │                 ║
+║ mmer Analyst Pr │                 │ merica          │                                                                                  │ 2021            │                 ║
+║ ogram (Menlo Pa │                 │                 │                                                                                  │                 │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Global Cap │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11288                           │ Application Dea │                 ║
+║ ital Markets Su │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 14,  │                 ║
+║ mmer Analyst Pr │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ogram (New York │                 │                 │                                                                                  │                 │                 ║
+║ )               │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fixed Inco │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11218                           │ Application Dea │                 ║
+║ me Sophomore Su │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 14,  │                 ║
+║ mmer Analyst Pr │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ogram (New York │                 │                 │                                                                                  │                 │                 ║
+║ )               │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Fixed Inco │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11219                           │ Application Dea │                 ║
+║ me Summer Analy │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 14,  │                 ║
+║ st Program (New │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ York)           │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11346                           │ Application Dea │                 ║
+║ Banking Summer  │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ Analyst Program │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ (United States) │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Institutio │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11301                           │ Application Dea │                 ║
+║ nal Securities  │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ Quantitative Su │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ mmer Opportunit │                 │                 │                                                                                  │                 │                 ║
+║ ies (New York)  │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Quantitati │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11271                           │ Application Dea │                 ║
+║ ve Finance Soph │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ omore Summer An │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ alyst Program ( │                 │                 │                                                                                  │                 │                 ║
+║ New York)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021/2022 Inves │ Program Type: I │ Melbourne, Aust │ https://morganstanley.tal.net/vx/candidate/apply/10953                           │ Application Dea │                 ║
+║ tment Banking S │ nternship       │ ralia           │                                                                                  │ dline: Jul 13,  │                 ║
+║ ummer Analyst P │                 │                 │                                                                                  │ 2021            │                 ║
+║ rogram (Melbour │                 │                 │                                                                                  │                 │                 ║
+║ ne)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Wealth Man │ Program Type: I │ Purchase, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11406                           │ Application Dea │                 ║
+║ agement Summer  │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ Analyst Program │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ (New York)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ Toronto, Canada │ https://morganstanley.tal.net/vx/candidate/apply/11338                           │ Application Dea │                 ║
+║ Banking Summer  │ nternship       │                 │                                                                                  │ dline: Jul 13,  │                 ║
+║ Analyst Program │                 │                 │                                                                                  │ 2021            │                 ║
+║ (Canada)        │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11335                           │ Application Dea │                 ║
+║ Banking Sophomo │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ re Summer Analy │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ st Program (Uni │                 │                 │                                                                                  │                 │                 ║
+║ ted States)     │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Firm Strat │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11264                           │ Application Dea │                 ║
+║ egy  Execution  │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 12,  │                 ║
+║ Summer Analyst  │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Program (New Yo │                 │                 │                                                                                  │                 │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11366                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 12,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram - Real Esta │                 │                 │                                                                                  │                 │                 ║
+║ te Investing (N │                 │                 │                                                                                  │                 │                 ║
+║ ew York)        │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11368                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 12,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram (New York)  │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ San Francisco,  │ https://morganstanley.tal.net/vx/candidate/apply/11367                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ United States o │                                                                                  │ dline: Jul 12,  │                 ║
+║ er Analyst Prog │                 │ f America       │                                                                                  │ 2021            │                 ║
+║ ram - Real Esta │                 │                 │                                                                                  │                 │                 ║
+║ te Investing (S │                 │                 │                                                                                  │                 │                 ║
+║ an Francisco)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: F │ Milan, Italy    │ https://morganstanley.tal.net/vx/candidate/apply/10182                           │ Application Dea │                 ║
+║ Banking Full Ti │ ull Time        │                 │                                                                                  │ dline: Jul 08,  │                 ║
+║ me Analyst Prog │                 │                 │                                                                                  │ 2021            │                 ║
+║ ramme (Milan)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Step In, S │ Program Type: D │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/10861                           │ Application Dea │                 ║
+║ tep Up: Foundat │ iversity Event/ │ Kingdom         │                                                                                  │ dline: Jul 03,  │                 ║
+║ ions In Finance │ Program         │                 │                                                                                  │ 2021            │                 ║
+║ (London)        │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Sales  Tra │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10281                           │ Application Dea │                 ║
+║ ding Off-cycle  │ nternship       │                 │                                                                                  │ dline: Jun 29,  │                 ║
+║ Internship - St │                 │                 │                                                                                  │ 2021            │                 ║
+║ ructured Deriva │                 │                 │                                                                                  │                 │                 ║
+║ tives Sales (Pa │                 │                 │                                                                                  │                 │                 ║
+║ ris)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Sales  Tra │ Program Type: I │ Milan, Italy    │ https://morganstanley.tal.net/vx/candidate/apply/11520                           │ Application Dea │                 ║
+║ ding Off-cycle  │ nternship       │                 │                                                                                  │ dline: Jun 09,  │                 ║
+║ Internship - Fi │                 │                 │                                                                                  │ 2021            │                 ║
+║ xed Income (Mil │                 │                 │                                                                                  │                 │                 ║
+║ an)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ Toronto, Canada │ https://morganstanley.tal.net/vx/candidate/apply/11338                           │ Application Dea │                 ║
+║ Banking Summer  │ nternship       │                 │                                                                                  │ dline: Jul 13,  │                 ║
+║ Analyst Program │                 │                 │                                                                                  │ 2021            │                 ║
+║ (Canada)        │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11335                           │ Application Dea │                 ║
+║ Banking Sophomo │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 13,  │                 ║
+║ re Summer Analy │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ st Program (Uni │                 │                 │                                                                                  │                 │                 ║
+║ ted States)     │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Firm Strat │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11264                           │ Application Dea │                 ║
+║ egy  Execution  │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 12,  │                 ║
+║ Summer Analyst  │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ Program (New Yo │                 │                 │                                                                                  │                 │                 ║
+║ rk)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11366                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 12,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram - Real Esta │                 │                 │                                                                                  │                 │                 ║
+║ te Investing (N │                 │                 │                                                                                  │                 │                 ║
+║ ew York)        │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ New York, Unite │ https://morganstanley.tal.net/vx/candidate/apply/11368                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ d States of Ame │                                                                                  │ dline: Jul 12,  │                 ║
+║ er Analyst Prog │                 │ rica            │                                                                                  │ 2021            │                 ║
+║ ram (New York)  │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2022 Investment │ Program Type: I │ San Francisco,  │ https://morganstanley.tal.net/vx/candidate/apply/11367                           │ Application Dea │                 ║
+║ Management Summ │ nternship       │ United States o │                                                                                  │ dline: Jul 12,  │                 ║
+║ er Analyst Prog │                 │ f America       │                                                                                  │ 2021            │                 ║
+║ ram - Real Esta │                 │                 │                                                                                  │                 │                 ║
+║ te Investing (S │                 │                 │                                                                                  │                 │                 ║
+║ an Francisco)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: F │ Milan, Italy    │ https://morganstanley.tal.net/vx/candidate/apply/10182                           │ Application Dea │                 ║
+║ Banking Full Ti │ ull Time        │                 │                                                                                  │ dline: Jul 08,  │                 ║
+║ me Analyst Prog │                 │                 │                                                                                  │ 2021            │                 ║
+║ ramme (Milan)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Step In, S │ Program Type: D │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/10861                           │ Application Dea │                 ║
+║ tep Up: Foundat │ iversity Event/ │ Kingdom         │                                                                                  │ dline: Jul 03,  │                 ║
+║ ions In Finance │ Program         │                 │                                                                                  │ 2021            │                 ║
+║ (London)        │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Sales  Tra │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10281                           │ Application Dea │                 ║
+║ ding Off-cycle  │ nternship       │                 │                                                                                  │ dline: Jun 29,  │                 ║
+║ Internship - St │                 │                 │                                                                                  │ 2021            │                 ║
+║ ructured Deriva │                 │                 │                                                                                  │                 │                 ║
+║ tives Sales (Pa │                 │                 │                                                                                  │                 │                 ║
+║ ris)            │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Sales  Tra │ Program Type: I │ Milan, Italy    │ https://morganstanley.tal.net/vx/candidate/apply/11520                           │ Application Dea │                 ║
+║ ding Off-cycle  │ nternship       │                 │                                                                                  │ dline: Jun 09,  │                 ║
+║ Internship - Fi │                 │                 │                                                                                  │ 2021            │                 ║
+║ xed Income (Mil │                 │                 │                                                                                  │                 │                 ║
+║ an)             │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Moscow, Russian │ https://morganstanley.tal.net/vx/candidate/apply/10199                           │ Application Dea │                 ║
+║ Banking Off-cyc │ nternship       │ Federation      │                                                                                  │ dline: Jun 09,  │                 ║
+║ le Internship ( │                 │                 │                                                                                  │ 2021            │                 ║
+║ Moscow)         │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10192                           │ Application Dea │                 ║
+║ Banking Off-cyc │ nternship       │                 │                                                                                  │ dline: Jun 03,  │                 ║
+║ le Internship - │                 │                 │                                                                                  │ 2021            │                 ║
+║ Real Estate Ban │                 │                 │                                                                                  │                 │                 ║
+║ king (Paris)    │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10224                           │ Application Dea │                 ║
+║ Management Off- │ nternship       │                 │                                                                                  │ dline: May 31,  │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │ 2021            │                 ║
+║ p - Global Sale │                 │                 │                                                                                  │                 │                 ║
+║ s  Marketing (P │                 │                 │                                                                                  │                 │                 ║
+║ aris)           │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10230                           │ Application Dea │                 ║
+║ Management Off- │ nternship       │                 │                                                                                  │ dline: May 31,  │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │ 2021            │                 ║
+║ p - Real Estate │                 │                 │                                                                                  │                 │                 ║
+║ Investing (Pari │                 │                 │                                                                                  │                 │                 ║
+║ s)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/10221                           │ Application Dea │                 ║
+║ Management Off- │ nternship       │ Kingdom         │                                                                                  │ dline: May 30,  │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │ 2021            │                 ║
+║ p - Global Sale │                 │                 │                                                                                  │                 │                 ║
+║ s  Marketing (L │                 │                 │                                                                                  │                 │                 ║
+║ ondon)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10280                           │ Application Dea │                 ║
+║ Management - Fu │ nternship       │                 │                                                                                  │ dline: May 30,  │                 ║
+║ nd Logic (Paris │                 │                 │                                                                                  │ 2021            │                 ║
+║ )               │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Quantitati │ Program Type: I │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/10265                           │ Application Dea │                 ║
+║ ve Finance Off- │ nternship       │ Kingdom         │                                                                                  │ dline: May 29,  │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │ 2021            │                 ║
+║ p (London)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Risk Manag │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10268                           │ Application Dea │                 ║
+║ ement Off-cycle │ nternship       │ ry              │                                                                                  │ dline: May 28,  │                 ║
+║ Internship - Op │                 │                 │                                                                                  │ 2021            │                 ║
+║ erational Risk  │                 │                 │                                                                                  │                 │                 ║
+║ (Budapest)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Dubai, United A │ https://morganstanley.tal.net/vx/candidate/apply/10194                           │ Application Dea │                 ║
+║ Banking Off-cyc │ nternship       │ rab Emirates    │                                                                                  │ dline: May 28,  │                 ║
+║ le Internship ( │                 │                 │                                                                                  │ 2021            │                 ║
+║ Dubai)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Sales  Tra │ Program Type: I │ Frankfurt, Germ │ https://morganstanley.tal.net/vx/candidate/apply/10274                           │ Application Dea │                 ║
+║ ding Off-cycle  │ nternship       │ any             │                                                                                  │ dline: May 28,  │                 ║
+║ Internship Stru │                 │                 │                                                                                  │ 2021            │                 ║
+║ ctured Equity D │                 │                 │                                                                                  │                 │                 ║
+║ erivatives Sale │                 │                 │                                                                                  │                 │                 ║
+║ s (Frankfurt)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Moscow, Russian │ https://morganstanley.tal.net/vx/candidate/apply/10199                           │ Application Dea │                 ║
+║ Banking Off-cyc │ nternship       │ Federation      │                                                                                  │ dline: Jun 09,  │                 ║
+║ le Internship ( │                 │                 │                                                                                  │ 2021            │                 ║
+║ Moscow)         │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10192                           │ Application Dea │                 ║
+║ Banking Off-cyc │ nternship       │                 │                                                                                  │ dline: Jun 03,  │                 ║
+║ le Internship - │                 │                 │                                                                                  │ 2021            │                 ║
+║ Real Estate Ban │                 │                 │                                                                                  │                 │                 ║
+║ king (Paris)    │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10224                           │ Application Dea │                 ║
+║ Management Off- │ nternship       │                 │                                                                                  │ dline: May 31,  │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │ 2021            │                 ║
+║ p - Global Sale │                 │                 │                                                                                  │                 │                 ║
+║ s  Marketing (P │                 │                 │                                                                                  │                 │                 ║
+║ aris)           │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10230                           │ Application Dea │                 ║
+║ Management Off- │ nternship       │                 │                                                                                  │ dline: May 31,  │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │ 2021            │                 ║
+║ p - Real Estate │                 │                 │                                                                                  │                 │                 ║
+║ Investing (Pari │                 │                 │                                                                                  │                 │                 ║
+║ s)              │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/10221                           │ Application Dea │                 ║
+║ Management Off- │ nternship       │ Kingdom         │                                                                                  │ dline: May 30,  │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │ 2021            │                 ║
+║ p - Global Sale │                 │                 │                                                                                  │                 │                 ║
+║ s  Marketing (L │                 │                 │                                                                                  │                 │                 ║
+║ ondon)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10280                           │ Application Dea │                 ║
+║ Management - Fu │ nternship       │                 │                                                                                  │ dline: May 30,  │                 ║
+║ nd Logic (Paris │                 │                 │                                                                                  │ 2021            │                 ║
+║ )               │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Quantitati │ Program Type: I │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/10265                           │ Application Dea │                 ║
+║ ve Finance Off- │ nternship       │ Kingdom         │                                                                                  │ dline: May 29,  │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │ 2021            │                 ║
+║ p (London)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Risk Manag │ Program Type: I │ Budapest, Hunga │ https://morganstanley.tal.net/vx/candidate/apply/10268                           │ Application Dea │                 ║
+║ ement Off-cycle │ nternship       │ ry              │                                                                                  │ dline: May 28,  │                 ║
+║ Internship - Op │                 │                 │                                                                                  │ 2021            │                 ║
+║ erational Risk  │                 │                 │                                                                                  │                 │                 ║
+║ (Budapest)      │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Dubai, United A │ https://morganstanley.tal.net/vx/candidate/apply/10194                           │ Application Dea │                 ║
+║ Banking Off-cyc │ nternship       │ rab Emirates    │                                                                                  │ dline: May 28,  │                 ║
+║ le Internship ( │                 │                 │                                                                                  │ 2021            │                 ║
+║ Dubai)          │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Sales  Tra │ Program Type: I │ Frankfurt, Germ │ https://morganstanley.tal.net/vx/candidate/apply/10274                           │ Application Dea │                 ║
+║ ding Off-cycle  │ nternship       │ any             │                                                                                  │ dline: May 28,  │                 ║
+║ Internship Stru │                 │                 │                                                                                  │ 2021            │                 ║
+║ ctured Equity D │                 │                 │                                                                                  │                 │                 ║
+║ erivatives Sale │                 │                 │                                                                                  │                 │                 ║
+║ s (Frankfurt)   │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Sales  Tra │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10279                           │ Application Dea │                 ║
+║ ding Off-cycle  │ nternship       │                 │                                                                                  │ dline: May 28,  │                 ║
+║ Internship - Fi │                 │                 │                                                                                  │ 2021            │                 ║
+║ xed Income Off- │                 │                 │                                                                                  │                 │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │                 │                 ║
+║ p (Paris)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Warsaw, Poland  │ https://morganstanley.tal.net/vx/candidate/apply/10203                           │ Application Dea │                 ║
+║ Banking Off-cyc │ nternship       │                 │                                                                                  │ dline: May 28,  │                 ║
+║ le Internship ( │                 │                 │                                                                                  │ 2021            │                 ║
+║ Warsaw)         │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Equity Exo │ Program Type: I │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/11024                           │ Application Dea │                 ║
+║ tics Trader off │ nternship       │ Kingdom         │                                                                                  │ dline: May 16,  │                 ║
+║ -cycle Internsh │                 │                 │                                                                                  │ 2021            │                 ║
+║ ip (London)     │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Quantitati │ Program Type: I │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/10632                           │ Application Dea │                 ║
+║ ve Trader off-c │ nternship       │ Kingdom         │                                                                                  │ dline: May 15,  │                 ║
+║ ycle Internship │                 │                 │                                                                                  │ 2021            │                 ║
+║ (London)        │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Sales  Tra │ Program Type: I │ Paris, France   │ https://morganstanley.tal.net/vx/candidate/apply/10279                           │ Application Dea │                 ║
+║ ding Off-cycle  │ nternship       │                 │                                                                                  │ dline: May 28,  │                 ║
+║ Internship - Fi │                 │                 │                                                                                  │ 2021            │                 ║
+║ xed Income Off- │                 │                 │                                                                                  │                 │                 ║
+║ cycle Internshi │                 │                 │                                                                                  │                 │                 ║
+║ p (Paris)       │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Investment │ Program Type: I │ Warsaw, Poland  │ https://morganstanley.tal.net/vx/candidate/apply/10203                           │ Application Dea │                 ║
+║ Banking Off-cyc │ nternship       │                 │                                                                                  │ dline: May 28,  │                 ║
+║ le Internship ( │                 │                 │                                                                                  │ 2021            │                 ║
+║ Warsaw)         │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Equity Exo │ Program Type: I │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/11024                           │ Application Dea │                 ║
+║ tics Trader off │ nternship       │ Kingdom         │                                                                                  │ dline: May 16,  │                 ║
+║ -cycle Internsh │                 │                 │                                                                                  │ 2021            │                 ║
+║ ip (London)     │                 │                 │                                                                                  │                 │                 ║
+╟─────────────────┼─────────────────┼─────────────────┼──────────────────────────────────────────────────────────────────────────────────┼─────────────────┼─────────────────╢
+║ 2021 Quantitati │ Program Type: I │ London, United  │ https://morganstanley.tal.net/vx/candidate/apply/10632                           │ Application Dea │                 ║
+║ ve Trader off-c │ nternship       │ Kingdom         │                                                                                  │ dline: May 15,  │                 ║
+║ ycle Internship │                 │                 │                                                                                  │ 2021            │                 ║
+║ (London)        │                 │                 │                                                                                  │                 │                 ║
+╚═════════════════╧═════════════════╧═════════════════╧══════════════════════════════════════════════════════════════════════════════════╧═════════════════╧═════════════════╝
