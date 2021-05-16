@@ -12,6 +12,7 @@ const AnonymizeUA = require('puppeteer-extra-plugin-anonymize-ua')
 
 var config = require('./config');
 
+// Load Scrapping Functions for each company
 
 async function main() {
     // Puppeteer-extra Plugins! Prevent Anti-Scrapping Mechanisms
@@ -30,16 +31,20 @@ async function main() {
             headless: false
         }
     });
-    // Event handler to be called in case of problems
+
+    // Event handler to be called in case of exceptions
     cluster.on('taskerror', (err, data) => {
         console.log(`Exception in ${data}: ${err.message}`);
     });
 
     await cluster.task(async ({
         page,
-        data: url
+        data: {
+            entryURL,
+            pageScraper
+        }
     }) => {
-        await page.goto(url, {
+        await page.goto(entryURL, {
             waitUntil: 'networkidle0',
         });
         await page.setViewport({
@@ -48,11 +53,17 @@ async function main() {
         });
 
 
-        await page.waitForTimeout(20000)
+        await pageScraper(page);
+
+        await page.waitForTimeout(200000)
     });
 
     for (const company in config.companies) {
-        cluster.queue(config.companies[company].entry_url)
+        companyInstance = config.companies[company]
+        cluster.queue({
+            entryURL: companyInstance.entryURL,
+            pageScraper: companyInstance.pageScraper
+        })
     }
 
     await cluster.idle();

@@ -4,6 +4,7 @@
   "description": "Hong Kong Graduate Job Finder (Web Scraping)",
   "main": "index.js",
   "dependencies": {
+    "node-html-parser": "^3.3.0",
     "puppeteer": "^9.1.1",
     "puppeteer-cluster": "^0.22.0",
     "puppeteer-extra": "^3.1.18",
