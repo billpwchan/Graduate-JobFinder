@@ -93,7 +93,7 @@ async function scrapeAll(page) {
 
     const config = {
         columnDefault: {
-            width: 15,
+            width: 10,
         },
         header: {
             alignment: 'center',
