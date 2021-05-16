@@ -55,7 +55,7 @@ async function main() {
 
         await pageScraper(page);
 
-        await page.waitForTimeout(200000)
+        await page.waitForTimeout(1000)
     });
 
     for (const company in config.companies) {
