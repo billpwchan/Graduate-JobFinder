@@ -21,10 +21,19 @@ async function scrapeAll(page) {
         document.querySelector('button.all--sg--link').click();
     })
 
-    await page.evaluate(() => {
-        const elements = [...document.querySelectorAll('div.jobcard')];
 
-    })
+    const getPagination = async () => {
+        return await page.evaluate(async () => {
+            const elements = [...document.querySelectorAll('#pagination > span > a')];
+            return await new Promise(resolve => {
+                resolve(elements[elements.length - 1].innerHTML);
+            })
+        })
+    }
+
+    totalPages = await getPagination();
+    console.log(totalPages)
+
 
 
     jobCards = [];
@@ -40,10 +49,22 @@ async function scrapeAll(page) {
 
     jobCards = await getJobCard();
 
+    var vacancies = []
+
     jobCards.forEach(jobCard => {
+        let vacancy = {}
         const root = parse(jobCard)
-        console.log(root.querySelector('div.cmp-jobcard__title').childNodes[0].rawText)
+        vacancy.jobTitle = root.querySelector('div.cmp-jobcard__title').childNodes[0].rawText
+        vacancy.jobType = root.querySelector('div.description_section').childNodes[1].rawText
+        vacancy.jobLocation = root.querySelector('div.cmp-jobcard__location').childNodes[0].rawText
+        vacancy.applyURL = root.querySelector('a.button--done')._attrs.href
+        vacancy.deadline = root.querySelector('div.description_section').childNodes[0].rawText
+        vacancy.remarks = ''
+
+        vacancies.push(vacancy)
     })
+
+    // console.log(vacancies)
 
 
 
